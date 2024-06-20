@@ -17,6 +17,7 @@
         "azuyalabs/yasumi": "~2.0",
         "doctrine/dbal": "~3.0",
         "psr/cache": "~1.0|~2.0|~3.0",
+        "psr/clock": "*",
         "symfony/config": "~5.4.21||~6.3||~7.0",
         "symfony/dependency-injection": "~5.4.21||~6.3||~7.0",
         "symfony/form": "~5.4.21||~6.3||~7.0",
